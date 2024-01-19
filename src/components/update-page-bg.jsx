@@ -19,7 +19,7 @@ const UpdatePageBG = () => {
     };
 
     return (
-        <div>
+        <div className="center">
             <input
                 style={{ margin: "4px" }}
                 type="color"
@@ -29,6 +29,7 @@ const UpdatePageBG = () => {
                 }}
             />
             <button
+                style={{ width: "180px" }}
                 onClick={() => {
                     modifyPageDOM();
                 }}
