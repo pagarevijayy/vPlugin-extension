@@ -1,0 +1,16 @@
+{
+    "name": "vPlugin",
+    "description": "Simple browser plugin",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "images/thunder_16.png",
+        "32": "images/thunder_32.png",
+        "48": "images/thunder_48.png"
+    },
+    "action": {
+        "default_icon": "images/thunder_48.png",
+        "default_popup": "index.html"
+    },
+    "permissions": ["storage", "activeTab", "scripting"]
+}
