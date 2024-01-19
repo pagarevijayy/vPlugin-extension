@@ -19,3 +19,11 @@
 .card {
     padding: 2em;
 }
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 7px;
+    gap: 5px;
+}

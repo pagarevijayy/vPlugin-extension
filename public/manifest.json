@@ -12,5 +12,5 @@
         "default_icon": "images/thunder_48.png",
         "default_popup": "index.html"
     },
-    "permissions": ["storage", "activeTab", "scripting"]
+    "permissions": ["activeTab", "scripting"]
 }
