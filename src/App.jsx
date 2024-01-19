@@ -1,6 +1,8 @@
 import viteLogo from "/vite.svg";
 import Counter from "./components/counter";
 import DadJoke from "./components/dad-joke";
+import UpdatePageBG from "./components/update-page-bg";
+
 import "./App.css";
 
 function App() {
@@ -13,6 +15,7 @@ function App() {
             <div className="card">
                 <Counter />
                 <DadJoke />
+                <UpdatePageBG />
             </div>
         </>
     );
