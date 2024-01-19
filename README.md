@@ -19,3 +19,5 @@ To test it live:
 3.  choose the dist folder after building the project (npm i && npm run build)
 4.  optional: pin the extension & use it
 ```
+
+Simpler raw HTML/CSS/JS Plugin [here](https://github.com/pagarevijayy/browser-extension-plugin).
